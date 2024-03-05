@@ -16,3 +16,11 @@
 Обо мне :
 
 Я Front-end Stack разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Узбекистана 
+
+- :telescope: Я работаю инженером-программистом и занимаюсь разработкой внешнего интерфейса для создания веб-приложений.
+
+- :seedling: Изучение написания технического контента.
+
+- :zap: В свободное время решаю задачи на GeeksforGeeks и читаю технические статьи.
+
+- :mailbox:Как со мной связаться: [![Значок Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](ваш-linkedin-url)
