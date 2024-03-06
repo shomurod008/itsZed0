@@ -20,11 +20,8 @@
 Я Front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> из Узбекистана 
 
 - :telescope: I am working and developing a front end for creating a website.
-
 - :seedling: Learning to write technical content.
-
 - :zap: В свободное время решаю задачи на  и читаю технические статьи.
-- 
 - :mailbox:Как со мной связаться: [![Значок Linkedin](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](ваш-linkedin-url)
 
 
