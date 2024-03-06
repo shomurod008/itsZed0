@@ -38,6 +38,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height= "40"/> 
 </div>
 
+---
+
+### :writing_hand: Blog Posts :
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
